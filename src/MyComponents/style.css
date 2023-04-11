@@ -1,0 +1,11 @@
+.todoLine {
+	text-decoration: line-through;
+}
+
+.checkboxInput {
+	top: -73px;
+	/* same as above only one needed */
+	/* bottom: 73px; */
+
+	position: relative;
+}
